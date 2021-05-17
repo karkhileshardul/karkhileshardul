@@ -4,7 +4,10 @@
 - 🔭 I have worked near about 2 years (approx.) in startup company as a Software Engineer.
 - 🌱 I’m looking for full-time job. (Open to work).
 - 🔭 I’m currently learning Mathematics (Self paced).
-- 📫 How to reach me: karkhileshardul@gmail.com
+- 📫 How to reach me:
+  - <img align="left" alt="C" height="18px" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/google%2B-32x32.png"/> karkhileshardul@gmail.com.
+  - <img align="left" alt="C" height="18px" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-32x32.png" />https://www.linkedin.com/in/shardul-karkhile-11a9669a/
+  - <img align="left" alt="C" height="18px" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/instagram-32x32.png" />https://www.instagram.com/karkhileshardul/?hl=en
 
 
 ### Languages and Tools
