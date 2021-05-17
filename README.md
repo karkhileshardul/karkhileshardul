@@ -13,28 +13,28 @@
 
 ### Programming Languages and Tools
 
-<img align="left" alt="C" height="30px" src="https://api.iconify.design/logos:c.svg" />
-<img align="left" alt="C++" height="30px" src="https://api.iconify.design/logos:c-plusplus.svg" />
-<img align="left" alt="Java" height="30px" src="https://api.iconify.design/logos:java.svg" />
-<img align="left" alt="python" height="30px" src="https://api.iconify.design/logos:python.svg" />
-<img align="left" alt="JavaScript" height="30px" src="https://api.iconify.design/logos:javascript.svg" />
-<img align="left" alt="SpringToolSuite" height="30px" src="https://api.iconify.design/bx:bxl-spring-boot.svg" />
-<img align="left" alt="OpenGL" height="30px" src="https://api.iconify.design/logos:opengl.svg" />
-<img align="left" alt="WebGL" height="30px" src="https://api.iconify.design/simple-icons:webgl.svg" />
-<img align="left" alt="Vim" height="30px" src="https://api.iconify.design/logos:vim.svg" />
-<img align="left" alt="VisualStudio" height="30px" src="https://api.iconify.design/logos:visual-studio-code.svg" />
-<img align="left" alt="VisualStudio" height="30px" src="https://api.iconify.design/logos:visual-studio.svg" />
-<img align="left" alt="Aws" height="30px" src="https://api.iconify.design/logos:aws.svg" />
-<img align="left" alt="Terminal" height="30px" src="https://api.iconify.design/logos:terminal.svg" />
-<img align="left" alt="GitHub" height="30px" src="https://api.iconify.design/logos:github-icon.svg" />
-<img align="left" alt="GitLab" height="30px" src="https://api.iconify.design/vscode-icons:file-type-bitbucketpipeline.svg" />
-<img align="left" alt="Bitbucket" height="30px" src="https://api.iconify.design/logos:gitlab.svg" />
-
+<img align="left" alt="C" height="27px" src="https://api.iconify.design/logos:c.svg" />
+<img align="left" alt="C++" height="27px" src="https://api.iconify.design/logos:c-plusplus.svg" />
+<img align="left" alt="Java" height="27px" src="https://api.iconify.design/logos:java.svg" />
+<img align="left" alt="python" height="27px" src="https://api.iconify.design/logos:python.svg" />
+<img align="left" alt="JavaScript" height="27px" src="https://api.iconify.design/logos:javascript.svg" />
+<img align="left" alt="SpringToolSuite" height="27px" src="https://api.iconify.design/bx:bxl-spring-boot.svg" />
+<img align="left" alt="OpenGL" height="27px" src="https://api.iconify.design/logos:opengl.svg" />
+<img align="left" alt="WebGL" height="27px" src="https://api.iconify.design/simple-icons:webgl.svg" />
+<img align="left" alt="Vim" height="27px" src="https://api.iconify.design/logos:vim.svg" />
+<img align="left" alt="VisualStudio" height="27px" src="https://api.iconify.design/logos:visual-studio-code.svg" />
+<img align="left" alt="VisualStudio" height="27px" src="https://api.iconify.design/logos:visual-studio.svg" />
+<img align="left" alt="Aws" height="27px" src="https://api.iconify.design/logos:aws.svg" />
+<img align="left" alt="Terminal" height="27px" src="https://api.iconify.design/logos:terminal.svg" />
+<img align="left" alt="GitHub" height="27px" src="https://api.iconify.design/logos:github-icon.svg" />
+<img align="left" alt="GitLab" height="27px" src="https://api.iconify.design/vscode-icons:file-type-bitbucketpipeline.svg" />
+<img align="left" alt="Bitbucket" height="27px" src="https://api.iconify.design/logos:gitlab.svg" />
 <br><br>
 
 - Intermediate Level.
 <img align="left" alt="CUDA" height="30px" src="https://api.iconify.design/vscode-icons:file-type-cuda.svg" />
 <img align="left" alt="OpenCL" height="30px" src="https://api.iconify.design/vscode-icons:file-type-opencl.svg" />
+<br><br>
 
 ### Softwares
 - Intermediate Level.
