@@ -30,25 +30,19 @@
 <img align="left" alt="GitLab" height="27px" src="https://api.iconify.design/vscode-icons:file-type-bitbucketpipeline.svg" />
 <img align="left" alt="Bitbucket" height="27px" src="https://api.iconify.design/logos:gitlab.svg" />
 <br><br>
-
 - Intermediate Level.
-  - <img align="left" alt="CUDA" height="30px" src="https://api.iconify.design/vscode-icons:file-type-cuda.svg" />
-  - <img align="left" alt="OpenCL" height="30px" src="https://api.iconify.design/vscode-icons:file-type-opencl.svg"/>
+  - <img align="left" alt="CUDA" height="30px" src="https://api.iconify.design/vscode-icons:file-type-cuda.svg" /><img align="left" alt="OpenCL" height="30px" src="https://api.iconify.design/vscode-icons:file-type-opencl.svg"/>
 <br><br>
 
 ### Softwares
 - Intermediate Level.
-  - <img align="left" alt="KdenLive" height="22px" src="https://api.iconify.design/simple-icons:kdenlive.svg" />
-  - <img align="left" alt="Audacity" height="22px" src="https://api.iconify.design/simple-icons:audacity.svg" />
-  - <img align="left" alt="PremierPro" height="22px" src="https://api.iconify.design/cib:adobe-premiere.svg" />
+  - <img align="left" alt="KdenLive" height="22px" src="https://api.iconify.design/simple-icons:kdenlive.svg" /><img align="left" alt="Audacity" height="22px" src="https://api.iconify.design/simple-icons:audacity.svg" /><img align="left" alt="PremierPro" height="22px" src="https://api.iconify.design/cib:adobe-premiere.svg" />
 <br><br>
-
 - Begineer Level.
   - <img align="left" alt="Blender" height="22px" src="https://api.iconify.design/logos:blender.svg" />
 <br><br>
 
 ---
-
 ### Platforms
 
 <img align="left" alt="python" height="30px" src="https://api.iconify.design/logos:debian.svg" />
