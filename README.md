@@ -2,9 +2,9 @@
 ### Hi there I'm Shardul Karkhile 👋🏼
 
 
-- 🔭 I’m currently working on C, C++ and CUDA
-- 🌱 I’m currently learning OpenGL & DirectX
-
+<!-- 🔭 I’m currently working on C, C++ and CUDA
+🌱 I’m currently learning OpenGL & DirectX
+-->
 
 ### Languages and Tools
 
