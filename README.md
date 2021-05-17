@@ -2,8 +2,8 @@
 ### Hi there I'm Shardul Karkhile 👋🏼
 
 
-<!-- 🔭 I’m currently working on C, C++ and CUDA
-🌱 I’m currently learning OpenGL & DirectX
+🔭 I’m currently learning on Mathematics (Self paced).
+<!--🌱 I’m currently learning OpenGL & DirectX
 -->
 
 ### Languages and Tools
@@ -17,7 +17,7 @@
 <img align="left" alt="WebGL" height="30px" src="https://api.iconify.design/simple-icons:webgl.svg" />
 <img align="left" alt="VisualStudio" height="30px" src="https://api.iconify.design/logos:visual-studio.svg" />
 <img align="left" alt="VisualStudio" height="30px" src="https://api.iconify.design/logos:visual-studio-code.svg" />
-<img align="left" alt="SpringToolSuite" height="30px" src="https://api.iconify.design/logos:bx-bxl-spring-boot.svg" />
+<img align="left" alt="SpringToolSuite" height="30px" src="https://api.iconify.design/icon-sets:bx-bxl-spring-boot.svg" />
 <br><br>
 
 ### Platforms
