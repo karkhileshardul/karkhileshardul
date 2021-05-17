@@ -18,10 +18,10 @@
 <img align="left" alt="Java" height="30px" src="https://api.iconify.design/logos:java.svg" />
 <img align="left" alt="python" height="30px" src="https://api.iconify.design/logos:python.svg" />
 <img align="left" alt="JavaScript" height="30px" src="https://api.iconify.design/logos:javascript.svg" />
+<img align="left" alt="SpringToolSuite" height="30px" src="https://api.iconify.design/bx:bxl-spring-boot.svg" />
 <img align="left" alt="OpenGL" height="30px" src="https://api.iconify.design/logos:opengl.svg" />
 <img align="left" alt="WebGL" height="30px" src="https://api.iconify.design/simple-icons:webgl.svg" />
 <img align="left" alt="Vim" height="30px" src="https://api.iconify.design/logos:vim.svg" />
-<img align="left" alt="SpringToolSuite" height="30px" src="https://api.iconify.design/bx:bxl-spring-boot.svg" />
 <img align="left" alt="VisualStudio" height="30px" src="https://api.iconify.design/logos:visual-studio-code.svg" />
 <img align="left" alt="VisualStudio" height="30px" src="https://api.iconify.design/logos:visual-studio.svg" />
 <img align="left" alt="Aws" height="30px" src="https://api.iconify.design/logos:aws.svg" />
