@@ -1,7 +1,7 @@
 
 ### Hi there I'm Shardul Karkhile 👋🏼
 
-- 🔭 I have worked near about 2 years (approx.) in startup company as a Software Engineer.
+- 🔭 I have worked near about 2 years in startup company as a Software Engineer.
 - 🌱 I’m looking for full-time job. (Open to work).
 - 🔭 I’m currently learning Mathematics (Self paced).
 - 📫 How to reach me:
