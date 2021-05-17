@@ -1,10 +1,11 @@
 
 ### Hi there I'm Shardul Karkhile 👋🏼
 
+- 🔭 I have worked near about 2 years (approx.) in startup company as a Software Engineer.
+- 🌱 I’m looking for full-time job. (Open to work).
+- 🔭 I’m currently learning Mathematics (Self paced).
+- 📫 How to reach me: karkhileshardul@gmail.com
 
-🔭 I’m currently learning on Mathematics (Self paced).
-<!--🌱 I’m currently learning OpenGL & DirectX
--->
 
 ### Languages and Tools
 
@@ -15,17 +16,21 @@
 <img align="left" alt="JavaScript" height="30px" src="https://api.iconify.design/logos:javascript.svg" />
 <img align="left" alt="OpenGL" height="30px" src="https://api.iconify.design/logos:opengl.svg" />
 <img align="left" alt="WebGL" height="30px" src="https://api.iconify.design/simple-icons:webgl.svg" />
-<img align="left" alt="VisualStudio" height="30px" src="https://api.iconify.design/logos:visual-studio.svg" />
+<img align="left" alt="SpringToolSuite" height="30px" src="https://api.iconify.design/bx:bxl-spring-boot.svg" />
 <img align="left" alt="VisualStudio" height="30px" src="https://api.iconify.design/logos:visual-studio-code.svg" />
-<img align="left" alt="SpringToolSuite" height="30px" src="https://api.iconify.design/icon-sets:bx-bxl-spring-boot.svg" />
+<img align="left" alt="VisualStudio" height="30px" src="https://api.iconify.design/logos:visual-studio.svg" />
+<img align="left" alt="Aws" height="30px" src="https://api.iconify.design/logos:aws.svg" />
+<img align="left" alt="CUDA" height="30px" src="https://api.iconify.design/vscode-icons:file-type-cuda.svg" />
+<img align="left" alt="OpenCL" height="30px" src="https://api.iconify.design/vscode-icons:file-type-opencl.svg" />
 <br><br>
 
 ### Platforms
 
-<img align="left" alt="Windows" height="30px" src="https://api.iconify.design/logos:microsoft-windows.svg" />
 <img align="left" alt="python" height="30px" src="https://api.iconify.design/logos:debian.svg" />
 <img align="left" alt="Ubuntu" height="30px" src="https://api.iconify.design/logos:ubuntu.svg" />
 <img align="left" alt="Android" height="30px" src="https://api.iconify.design/logos:android.svg" />
+<img align="left" alt="Windows" height="30px" src="https://api.iconify.design/logos:microsoft-windows.svg" />
+
 
 
 
