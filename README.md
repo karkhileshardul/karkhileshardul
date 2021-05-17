@@ -30,6 +30,9 @@
 <img align="left" alt="GitLab" height="27px" src="https://api.iconify.design/vscode-icons:file-type-bitbucketpipeline.svg" />
 <img align="left" alt="Bitbucket" height="27px" src="https://api.iconify.design/logos:gitlab.svg" />
 <br><br>
+
+
+
 - Intermediate Level.
   - <img align="left" alt="CUDA" height="30px" src="https://api.iconify.design/vscode-icons:file-type-cuda.svg" /><img align="left" alt="OpenCL" height="30px" src="https://api.iconify.design/vscode-icons:file-type-opencl.svg"/>
 <br><br>
