@@ -25,6 +25,7 @@
 <img align="left" alt="Aws" height="30px" src="https://api.iconify.design/logos:aws.svg" />
 <img align="left" alt="CUDA" height="30px" src="https://api.iconify.design/vscode-icons:file-type-cuda.svg" />
 <img align="left" alt="OpenCL" height="30px" src="https://api.iconify.design/vscode-icons:file-type-opencl.svg" />
+<img align="left" alt="Blender" height="30px" src="https://api.iconify.design/logos:blender.svg" />
 <br><br>
 
 ### Platforms
