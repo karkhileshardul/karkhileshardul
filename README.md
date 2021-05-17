@@ -25,16 +25,17 @@
 <img align="left" alt="VisualStudio" height="30px" src="https://api.iconify.design/logos:visual-studio-code.svg" />
 <img align="left" alt="VisualStudio" height="30px" src="https://api.iconify.design/logos:visual-studio.svg" />
 <img align="left" alt="Aws" height="30px" src="https://api.iconify.design/logos:aws.svg" />
+<img align="left" alt="Terminal" height="30px" src="https://api.iconify.design/logos:terminal.svg" />
+<img align="left" alt="GitHub" height="30px" src="https://api.iconify.design/logos:github-icon.svg" />
+<img align="left" alt="GitLab" height="30px" src="https://api.iconify.design/vscode-icons:file-type-bitbucketpipeline.svg" />
+<img align="left" alt="Bitbucket" height="30px" src="https://api.iconify.design/logos:gitlab.svg" />
 
-<img align="left" alt="Blender" height="30px" src="https://api.iconify.design/logos:blender.svg" />
-<img align="left" alt="Git" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" height="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br><br>
 
 - Intermediate Level.
 <img align="left" alt="CUDA" height="30px" src="https://api.iconify.design/vscode-icons:file-type-cuda.svg" />
 <img align="left" alt="OpenCL" height="30px" src="https://api.iconify.design/vscode-icons:file-type-opencl.svg" />
+<img align="left" alt="Blender" height="22px" src="https://api.iconify.design/logos:blender.svg" />
 <br><br>
 
 ---
