@@ -34,7 +34,7 @@
 
 - Intermediate Level.
   - <img align="left" alt="CUDA" height="30px" src="https://api.iconify.design/vscode-icons:file-type-cuda.svg" /><img align="left" alt="OpenCL" height="30px" src="https://api.iconify.design/vscode-icons:file-type-opencl.svg"/>
-<br><br>
+
 
 ### Softwares
 - Intermediate Level.
