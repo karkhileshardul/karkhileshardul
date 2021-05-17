@@ -5,9 +5,8 @@
 - 🔭 Worked in a startup company as a Software Engineer near about 2 years.
 - 🌱 I’m looking for full-time job opportunity. (Open to work).
 - 🔭 I’m currently learning Mathematics (Self paced).
-- 📫 Contact:
-  - <img align="left" alt="C" height="18px" src="https://api.iconify.design/logos:google-gmail.svg"/> karkhileshardul@gmail.com.
-  - <img align="left" alt="C" height="22px" src="https://api.iconify.design/bi:instagram.svg"/>https://www.instagram.com/karkhileshardul/?hl=en
+- <img align="left" alt="C" height="18px" src="https://api.iconify.design/logos:google-gmail.svg"/> How to reach me:  karkhileshardul@gmail.com.
+
 
 ---
 
