@@ -42,7 +42,6 @@
 <br><br>
 - Begineer Level.
   - <img align="left" alt="Blender" height="22px" src="https://api.iconify.design/logos:blender.svg" />
-<br><br>
 
 ---
 ### Platforms
