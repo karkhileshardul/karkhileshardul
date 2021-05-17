@@ -5,9 +5,9 @@
 - 🔭 Worked in a startup company as a Software Engineer near about 2 years.
 - 🌱 I’m looking for full-time job opportunity. (Open to work).
 - 🔭 I’m currently learning Mathematics (Self paced).
-- 📫 How to reach me:
-  - <img align="left" alt="C" height="18px" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/google%2B-32x32.png"/> karkhileshardul@gmail.com.
-  - <img align="left" alt="C" height="18px" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/instagram-32x32.png" />https://www.instagram.com/karkhileshardul/?hl=en
+- 📫 Contact:
+  - <img align="left" alt="C" height="18px" src="https://api.iconify.design/logos:google-gmail.svg"/> karkhileshardul@gmail.com.
+  - <img align="left" alt="C" height="22px" src="https://api.iconify.design/bi:instagram.svg"/>https://www.instagram.com/karkhileshardul/?hl=en
 
 ---
 
@@ -35,6 +35,15 @@
 - Intermediate Level.
 <img align="left" alt="CUDA" height="30px" src="https://api.iconify.design/vscode-icons:file-type-cuda.svg" />
 <img align="left" alt="OpenCL" height="30px" src="https://api.iconify.design/vscode-icons:file-type-opencl.svg" />
+
+### Softwares
+- Intermediate Level.
+<img align="left" alt="KdenLive" height="22px" src="https://api.iconify.design/simple-icons:kdenlive.svg" />
+<img align="left" alt="Audacity" height="22px" src="https://api.iconify.design/simple-icons:audacity.svg" />
+<img align="left" alt="PremierPro" height="22px" src="https://api.iconify.design/cib:adobe-premiere.svg" />
+<br><br>
+
+- Begineer Level.
 <img align="left" alt="Blender" height="22px" src="https://api.iconify.design/logos:blender.svg" />
 <br><br>
 
