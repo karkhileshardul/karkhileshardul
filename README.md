@@ -15,7 +15,7 @@
 <img align="left" alt="C" height="27px" src="https://api.iconify.design/logos:c.svg" />
 <img align="left" alt="C++" height="27px" src="https://api.iconify.design/logos:c-plusplus.svg" />
 <img align="left" alt="Java" height="27px" src="https://api.iconify.design/logos:java.svg" />
-<img align="left" alt="python" height="27px" src="https://api.iconify.design/logos:python.svg" />
+<!-- <img align="left" alt="python" height="27px" src="https://api.iconify.design/logos:python.svg" /> -->
 <img align="left" alt="JavaScript" height="27px" src="https://api.iconify.design/logos:javascript.svg" />
 <img align="left" alt="SpringToolSuite" height="27px" src="https://api.iconify.design/bx:bxl-spring-boot.svg" />
 <img align="left" alt="OpenGL" height="27px" src="https://api.iconify.design/logos:opengl.svg" />
