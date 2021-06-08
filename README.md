@@ -2,7 +2,7 @@
 ### Hi there I'm Shardul Karkhile 👋🏼
   
 - 🎓 Computer Engineer.
-- 🔭 Worked in a startup company as a Software Engineer near about 1.9 years.
+- 🔭 Worked in a startup company as a Software Engineer near about 1.4 years.
 - 🌱 I’m looking for full-time job opportunity. (Open to work).
 <!-- - 🔭 I’m currently learning Mathematics (Self paced). -->
 - <img align="left" alt="C" height="18px" src="https://api.iconify.design/logos:google-gmail.svg"/> How to reach me:  karkhileshardul@gmail.com.
