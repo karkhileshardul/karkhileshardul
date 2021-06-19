@@ -2,7 +2,7 @@
 ### Hi there I'm Shardul Karkhile 👋🏼
   
 - 🎓 Computer Engineer.
-- 🔭 Working in a @tietoevry Pune.
+- 🔭 Working in a [TietoEVRY](https://www.tietoevry.com/) Pune.
 <!-- - 🔭 Worked in a startup company as a Software Engineer near about 1.4 years. -->
 <!-- - 🌱 I’m looking for full-time job opportunity. (Open to work). -->
 <!-- - 🔭 I’m currently learning Mathematics (Self paced). -->
